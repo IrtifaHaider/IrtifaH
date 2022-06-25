@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IrtifaH
-- 👀 I’m interested in competitive coding
+- 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning java
 - I already learnt c and c++
 - 💞️ I’m looking to collaborate on blockchain
