@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @IrtifaH
-- 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning java
-- I already learnt c and c++
-- 💞️ I’m looking to collaborate on blockchain
-- 📫 How to reach me mail me- haiderirtifa@gmail.com
+- 🌐 Explorer of the Digital Realm
+- 🌱 I’m currently learning web developing
+- ✨ I already learnt C, C++, JAVA, HTML, CSS, JavaScript
+- 📚 Learning and Growing Every Line
+- 📫 How to reach me mail me- irtifahbornali@gmail.com
 
 <!---
 IrtifaH/IrtifaH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
