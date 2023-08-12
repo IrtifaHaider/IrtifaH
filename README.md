@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IrtifaH
+- 👋 Hi, I’m @IrtifaHaider
 - 🌐 Explorer of the Digital Realm
 - 🌱 I’m currently learning web developing
 - ✨ I already learnt C, C++, JAVA, HTML, CSS, JavaScript
